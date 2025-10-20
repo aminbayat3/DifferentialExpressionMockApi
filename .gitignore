@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+Scripts/
+
+# IDE & editor files
+.vscode/
+.idea/
+*.swp
+
+# Byte-compiled / cache
+__pycache__/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uvicorn logs or cache
+*.pid
